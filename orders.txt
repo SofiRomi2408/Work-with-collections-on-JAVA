@@ -1,0 +1,15 @@
+001, John Doe, [laptop,1,1500.00],[printer,2,249.99],[phone,2,799.99],card
+002, Jane Smith, [monitor,1,300.00],[keyboard,1,100.00],cash
+003, Alice Johnson, [tablet,2,250.00],[charger,1,15.00],card
+004, Jane Smith, [tablet,3,250.00],[charger,5,15.00],cash
+005, Michael Brown, [headphones,2,99.99],[webcam,1,69.99],card
+006, Emily White, [keyboard,1,120.00],[mouse,1,50.00],[monitor,1,350.00],cash
+007, William Black, [laptop,1,1200.00],[mouse,1,35.00],card
+008, Olivia Green, [tablet,1,350.00],[case,1,25.00],[charger,1,20.00],cash
+009, James Blue, [printer,2,249.99],[ink cartridge,1,59.99],card
+010, Sophia Grey, [camera,1,450.00],[tripod,1,80.00],cash
+011, John Doe, [laptop,1,1500.00],[printer,1,249.99],[phone,2,799.99],card
+012, Jane Smith, [monitor,1,300.00],[keyboard,2,100.00],cash
+013, Alice Johnson, [tablet,2,250.00],[charger,2,15.00],card
+014, Jane Smith, [tablet,2,250.00],[charger,5,15.00],cash
+015, William Black, [laptop,1,1500.00],[printer,2,249.99],[phone,2,799.99],card
